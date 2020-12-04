@@ -12,4 +12,5 @@ This analysis was meant to help anyone who is ready to board a flight and is wan
 Avenues for further research include incorporating the year 2020 into our analysis and model. Clearly, with the current state of the pandemic, flights have reduced drastically. From 2019 to 2020 the number of passengers boarding flights decreased by 31.4%. How will this translate regarding delay times?
 
 Our Tableau dashboard can be viewed at https://public.tableau.com/profile/stephanie.lao#!/vizhome/WillYourFlightBeDelayed/FlightDelayAnalysis.
+My LinkedIn article about this analysis can be viewed at https://www.linkedin.com/posts/stephanie-lao-5a43151b3_dataanalysis-flightdelays-flightanalysis-activity-6740457778885771264-R4L9.
 
